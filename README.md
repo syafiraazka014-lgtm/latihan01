@@ -16,9 +16,11 @@ Praktikum
 
 analisa
 
-big
+repository
 
 data
 
 ekonomika 
+
+
 
